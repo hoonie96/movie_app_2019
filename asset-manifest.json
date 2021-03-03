@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hoonie96/movie_app_2019/static/css/main.5d477b3f.chunk.css",
+    "main.js": "/hoonie96/movie_app_2019/static/js/main.a222a368.chunk.js",
+    "main.js.map": "/hoonie96/movie_app_2019/static/js/main.a222a368.chunk.js.map",
+    "runtime-main.js": "/hoonie96/movie_app_2019/static/js/runtime-main.3f63bc92.js",
+    "runtime-main.js.map": "/hoonie96/movie_app_2019/static/js/runtime-main.3f63bc92.js.map",
+    "static/js/2.a4255704.chunk.js": "/hoonie96/movie_app_2019/static/js/2.a4255704.chunk.js",
+    "static/js/2.a4255704.chunk.js.map": "/hoonie96/movie_app_2019/static/js/2.a4255704.chunk.js.map",
+    "index.html": "/hoonie96/movie_app_2019/index.html",
+    "static/css/main.5d477b3f.chunk.css.map": "/hoonie96/movie_app_2019/static/css/main.5d477b3f.chunk.css.map",
+    "static/js/2.a4255704.chunk.js.LICENSE.txt": "/hoonie96/movie_app_2019/static/js/2.a4255704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f63bc92.js",
+    "static/js/2.a4255704.chunk.js",
+    "static/css/main.5d477b3f.chunk.css",
+    "static/js/main.a222a368.chunk.js"
+  ]
+}
